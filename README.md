@@ -14,7 +14,7 @@ i build desktop apps, real-time systems, and performance-sensitive software. fiv
 
 ---
 
-#### what I'm working on
+#### what i'm working on
 
 <table>
 <tr>

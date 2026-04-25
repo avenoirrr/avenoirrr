@@ -33,7 +33,7 @@ Cross-platform trading application. 950+ users, 100K+ transactions, 2,300+ token
 </tr>
 </table>
 
-**Echo-Sol** · *Open Source*
+**echo-sol** · *Open Source*
 Solana copy-trading engine in Rust. Watches wallets via Geyser gRPC, mirrors trades in real time, supports 10+ DEX protocols with automatic detection.
 [`github.com/avenoirrr/echo-sol`](https://github.com/avenoirrr/echo-sol)
 

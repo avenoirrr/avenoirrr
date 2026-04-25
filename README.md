@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Full-Stack Developer · TypeScript, Rust, React</em>
+  <em>full-stack developer · TypeScript, Rust, React</em>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-I build desktop apps, real-time systems, and performance-sensitive software. Five years in, mostly self-taught.
+i build desktop apps, real-time systems, and performance-sensitive software. five years in, mostly self-taught.
 
 ---
 

@@ -55,7 +55,7 @@ Other         Solana · IDA Pro · Claude Code
 - `3,400+` contributions this past year
 - `150K+` lines of TypeScript across production codebases
 - `950+` users and `100K+` transactions on CoinWave
-- `5 years` building, from Discord bots to full-stack Rust
+- `5 years` building, from Python scripts to full-stack Rust
 
 ---
 

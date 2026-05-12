@@ -1,1 +1,2 @@
 hello!
+programmer, designer, & entrepreneur
